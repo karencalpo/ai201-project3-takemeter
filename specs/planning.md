@@ -17,7 +17,7 @@ This has posts from users talking about retro adventure games. Users are asking 
 **What are your 2–4 labels?** (Define each in a complete sentence)
 
 - **Label 1:** recommendation_request 
-  - Definition: The user wants a suggestion
+  - Definition: The user wants a suggestion for a game to play.
   - Example 1: [Game suggestions similar to Roottrees, Type Help etc](https://www.reddit.com/r/adventuregames/comments/1u9b50s/game_suggestions_similar_to_roottrees_type_help/)
     
     > Looking for any and all suggestions for detective or investigative style point and click style games that are a bit longer in length. I have The Case of the Golden Idol on the list and Obra Dinn on my list. I’ve played a lot of the Adventure Escapes games although didn’t scratch the same itch as the concept behind Roottrees and Type Help. I definitely found those more interesting and thought provoking although I don’t mind some puzzles in the mix. If you have a suggestion, can you also tell me about how long it would take to finish? I’m looking for something longer, multiple hours vs 30-45 minute kind of thing!
@@ -26,9 +26,13 @@ This has posts from users talking about retro adventure games. Users are asking 
     
     > Hey all. I’m looking for an adventure game to play with my 6 year old son. I grew up on Sierra and would love something with similar magic to my memories of starting kings quest and space quest at similar age / slightly older. However I would like something a little more modern, and ideally without the stress of dying (or typing… or moonlogic…). I thought of digging out Eco Quest which I never played… but any other suggestions? He likes Minecraft, Star Wars, Lego, dinosaurs… usual boy stuff I guess lol… His reading skills are solid for age but not super fluent yet… Thanks all :))
 
+  -Example 3:
+    > Looking for any and all suggestions for detective or investigative style point and click style games that are a bit longer in length. I have The Case of the Golden Idol on the list and Obra Dinn on my list. I've played a lot of the Adventure Escapes games although didn't scratch the same itch as the concept behind Roottrees and Type Help.
+
+
 
 - **Label 2:** review_or_opinion
-  - Definition: The user gives an opinion, review, ranking, or reflection
+  - Definition: The user gives an opinion, review, ranking, or reflection about a game.
   - Example 1: [You Guys Aren’t Kidding. The Drifter is next level!](https://www.reddit.com/r/adventuregames/comments/1tdyhgz/you_guys_arent_kidding_the_drifter_is_next_level/)
     
     > I’ll be honest….all the pixelation kept me away until yesterday. But it keeps coming up on this subreddit so I took another look and once again this community knows stuff! What it lacks in graphics, makes up for 10 fold in execution and storytelling. I don’t know what the heck is going on and loving every second of it! Reminds me of the first time playing Gabriel Knight 1. So polished of an offering in our most favored medium. Thank you, fellow adventurers!
@@ -36,9 +40,12 @@ This has posts from users talking about retro adventure games. Users are asking 
   - Example 2: [One of the Best Games I’ve Ever Played - The Drifter](https://www.reddit.com/r/adventuregames/comments/1tas10s/one_of_the_best_games_ive_ever_played_the_drifter/)
     
     > I discovered The Drifter a few months ago. Played the prologue with one of my friends in my dorm room, and since then, she has not allowed me to play the game without her present to watch along with me. First of all, the art style is amazing. The colours, the shadows, I just adore the aesthetics of the game. Second of all, seriously some of the best voice-acting I have come across. The story is thrilling, even during exam season in uni I could NOT put it down. Definitely GOTY for me, personally. I hope somebody sees this!! I’d love to talk about The Drifter with someone. 
+    
+  - Example 3: 
+    > "I'll be honest….all the pixelation kept me away until yesterday. But it keeps coming up on this subreddit so I took another look and once again this community knows stuff! What it lacks in graphics, makes up for 10 fold in execution and storytelling. I don't know what the heck is going on and loving every second of it!"
 
 - **Label 3:** help_or_question
-  - Definition: The user asks for gameplay, puzzle, or technical help
+  - Definition: The user asks for gameplay, puzzle, or technical help.
   - Example 1: [I need an Unavowed hint](https://www.reddit.com/r/adventuregames/comments/1u69zh8/i_need_an_unavowed_hint/)
     
     > If anybody remembers this game, I got stuck here. Can't find the password of the pc and I think that is the next thing I should do. I am not exactly sure though? Can anyone give me a hint? I am stuck here for 2 days... I really want to find it myself but losing patience lol
@@ -46,9 +53,14 @@ This has posts from users talking about retro adventure games. Users are asking 
   - Example 2: [Lucy Dreaming -- anybody have save past goose wallop?](https://www.reddit.com/r/adventuregames/comments/1sygp09/lucy_dreaming_anybody_have_save_past_goose_wallop/)
     
     > I physically can't do the reflex thing. Unbelievable right in the middle of an otherwise-enjoyable point and click game, total disgard for accessibility. I tried the wallop game 3 times, got not a single wallop but I got a cramp in my right hand.
+  
+  - Example 3: 
+
+    > If anybody remembers this game, I got stuck here. Can't find the password of the pc and I think that is the next thing I should do. I am not exactly sure though? Can anyone give me a hint? I am stuck here for 2 days...
+
 
 - **Label 4:** news_or_resource
-  - Definition: The post shares a sale, trailer, link, release, remake, article, or resource
+  - Definition: The post shares a sale, trailer, link, release, remake, article, or resource.
   - Example 1: [Adventure Games Are Not Dead in 2021 - Highlighting Games Released This Year](https://www.reddit.com/r/adventuregames/comments/rf8tsi/adventure_games_are_not_dead_in_2021_highlighting/)
     
     > Hey AdventureGamers, Periodically, I like to do large posts highlighting recent adventure game releases and spotlighting some upcoming ones. You may have seen the one I did for the end of 2020. Every time I do this, I get lovely comments from people who may not have heard of all the games and end up picking up or wishlisting a few of them as a result. This list, despite having many, many games, is incomplete. If you have a favorite, or if you’ve made a game that I have left off, please self-promote in the comments to tell me off. My qualifications for "adventure" are also completely arbitrary.
@@ -56,6 +68,11 @@ This has posts from users talking about retro adventure games. Users are asking 
   - Example 2: [Adventure Game Hotspot gives out their first 100% review score](https://www.reddit.com/r/adventuregames/comments/1jw5m4c/adventure_game_hotspot_gives_out_their_first_100/?utm_source=chatgpt.com)
     
     > You’re not going to believe this. Matt Aukamp gave Blue Prince a 100 in the recent review. This is not a biased or sensational review. Have a read: https://adventuregamehotspot.com/review/4117/blue-prince
+
+  - Example 3:
+
+    > Hey AdventureGamers, Periodically, I like to do large posts highlighting recent adventure game releases and spotlighting some upcoming ones. You may have seen the one I did for the end of 2020.
+
 
 
 ---
@@ -130,7 +147,15 @@ decision_rule_used: Primary action is requesting recommendations.
 
 If a post is still unclear after 30–60 seconds, place it in an **exclude/review pile** rather than forcing a label. For fine-tuning, a smaller and more consistent dataset is better than a larger inconsistent dataset.
 
-  
+#### 3 Hard cases:
+  - recommend_request instead of help_question
+  > Looking for any and all suggestions for detective or investigative style point and click style games that are a bit longer in length. I have The Case of the Golden Idol on the list and Obra Dinn on my list. I've played a lot of the Adventure Escapes games although didn't scratch the same itch as the concept behind Roottrees and Type Help. I definitely found those more interesting and thought provoking although I don't mind some puzzles in the mix. If you have a suggestion, can you also tell me about how long it would take to finish? I'm looking for something longer, multiple hours vs 30-45 minute kind of thing!
+
+  - recommend_request instead of help_question
+  > My favourites are broken sword and curse of monkey island. Ive never really got on with pixel graphics. Anything out there that resembles this type of graphics with a solid story and decent puzzle elements? I cant seem to find anything!
+
+  - review_or_opinion instead of news_or_resource
+  > Ive been thinking about this recently. Will AI maybe create a new appreciation for old hand-made pixel art? Old point-and-click backgrounds still look beautiful, but lately I feel theres something else there too. You can almost feel the limits behind them: the palette, the patience, the compromises, all those tiny human decisions. I keep staring at old backgrounds from games like Monkey Island 1, Maniac Mansion, etc., almost imagining someone sitting there and placing those pixels one by one. Theres an essay I read that uses Future Wars and ric Chahis early work as an example of this, and it made me wonder whether old adventure game art might actually become more culturally valuable in the AI era. Not just as nostalgia, but as proof of human authorship. I dunno, if I was one of those original artists, Id feel pretty damn proud right now. Essay for context: https://www.advance.hr/en/articles/culture/against-artificial-art
 
 ---
 
@@ -448,3 +473,61 @@ I will write up the final failure analysis with:
 - **Boundary cases** (posts that genuinely straddle two labels)
 - **Recommendations** (should I refine the taxonomy, retrain the model, or accept this as inherent ambiguity?)
 - **Confidence level** for each finding (high if verified by manual review, medium if pattern is plausible, low if speculative)
+
+### Notes
+- **Baseline performance numbers**
+🎯 Baseline accuracy: 0.533  (evaluated on 30/30 parseable responses)
+
+Per-class metrics (baseline):
+                        precision    recall  f1-score   support
+
+recommendation_request       0.60      0.50      0.55         6
+      help_or_question       0.33      0.11      0.17         9
+     review_or_opinion       0.45      0.71      0.56         7
+      news_or_resource       0.64      0.88      0.74         8
+
+              accuracy                           0.53        30
+             macro avg       0.51      0.55      0.50        30
+          weighted avg       0.50      0.53      0.49        30
+
+  - Where did the baseline struggle?
+    - It seemed to struggle with the help_or_question and review_or_opinion label. Baseline accuracy seems to struggle because of the small example size.
+  - Are there specific labels it consistently confuses? Write down your hypothesis
+    - help_or_question and review_or_opinion labels seem to be confused consistently. I suspect it is because the labels
+      may be too similar to each other.
+- **Fine-tune  performance numbers**
+  🎯 Fine-tuned model accuracy: 0.267
+
+  Per-class metrics (fine-tuned model):
+                          precision    recall  f1-score   support
+
+  recommendation_request       0.00      0.00      0.00         6
+        help_or_question       0.00      0.00      0.00         9
+      review_or_opinion       0.00      0.00      0.00         7
+        news_or_resource       0.27      1.00      0.42         8
+
+                accuracy                           0.27        30
+              macro avg       0.07      0.25      0.11        30
+            weighted avg       0.07      0.27      0.11        30
+
+- **3 Incorrect Predictions**:
+ --- #9 ---
+  Text:      I remember playing this game as a kid. One of the games for the SNES that really started my love for Adventure games. Anyone else play this?
+  True:      help_or_question
+  Predicted: news_or_resource  (confidence: 0.28)
+
+  --- #10 ---
+  Text:      I made a documentary about Jonathan Boakes, the creator of The Lost Crown and Dark Fall , exploring the real Cornwall locations and folklore that inspired his games. Filmed across Looe and Polperro, i...
+  True:      review_or_opinion
+  Predicted: news_or_resource  (confidence: 0.28)
+
+  --- #11 ---
+  Text:      As a kid who grew up with a NES and a Tandy, I was all Mario and King's quest, and ive always been fascinated by adventure games (think point and click, scumm, etc) that made their way to cartridge, I...
+  True:      help_or_question
+  Predicted: news_or_resource  (confidence: 0.29)
+
+- **3 Correct Predictions**:
+  --- #25 ---
+  Text:      Hi adventure gamers, About 2.5 years ago I wanted to write a story about twins, genetics and something hidden in how the story's told. I didn't intend to publish it. The draft was eventually abandoned, but the story stayed at the back of my mind. About 1.5 year ago I started to mess with game engines. The half-written story resurfaced and I decided to turn it into a point-and-click puzzle game. The game's still far far from finished, but I finally have enough for a trailer. Twin Study is a murder mystery recounted by the suspected murderer. One twin is dead, the other tells their story. I try to make each puzzle meaningful and reveal something about the characters. Steam Page: https://store.steampowered.com/app/4678620/Twin_Study/
+  True:      news_or_resource
+  Predicted: news_or_resource  (confidence: 0.19)
