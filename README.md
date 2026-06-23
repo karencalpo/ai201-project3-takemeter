@@ -350,6 +350,8 @@ The model correctly identified this as `news_or_resource` by recognizing linguis
 ## Reflection
 
 ### What the Model Learned vs. What Was Intended
+**Demo Video Link**
+https://www.loom.com/share/095087489a3245dab813fa27b9bc26b3
 
 **Intended Behavior:**
 The fine-tuned model was intended to learn semantic distinctions between four Reddit post types and classify new posts accordingly, improving upon the baseline's 53.3% accuracy.
