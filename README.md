@@ -128,13 +128,13 @@ Do not duplicate the same post or use near-identical posts just to increase the 
 ### Label Distribution
 [Provide statistics on how labels are distributed across the dataset. Include a breakdown by count and percentage for each label]
 
-| Label     | Count | Percentage|
-|-------    |-------|-----------|
-| Label 1   |58     |29.0%      |
-| Label 2   |55     |27.5%      |
-| Label 3   |48     |24.0%      |
-| Label 4   |48     |19.5%      |
-| **Total** |200    |100%       |
+| Label                   | Count | Percentage|
+|-------                  |-------|-----------|
+| news_or_resource        |58     |29.0%      |
+| help_or_question        |55     |27.5%      |
+| review_or_opinion       |48     |24.0%      |
+| recommendation_request  |48     |19.5%      |
+| **Total**               |200    |100%       |
 
 ### Difficult-to-Label Examples
 
@@ -258,8 +258,6 @@ Classification head was trained on 140 training examples with frozen DistilBERT 
 ---
 
 ## Full Evaluation Report
-
-**Important Note on Data Quality:** Both the baseline and fine-tuned models were trained on a dataset with identified label quality issues. A spot-check of 25 training examples (17.9% of the training set) revealed approximately 36% mislabeling, with systematic errors particularly affecting the `help_or_question` and `news_or_resource` classifications. These label quality issues likely impacted both model performances reported below. The weak baseline performance on `help_or_question` (11% recall) and the fine-tuned model's complete failure on three classes may partially reflect training data inconsistency rather than pure model failure.
 
 ### Metrics Summary
 

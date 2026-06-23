@@ -527,7 +527,7 @@ recommendation_request       0.60      0.50      0.55         6
   Predicted: news_or_resource  (confidence: 0.29)
 
 - **3 Correct Predictions**:
-  --- #25 ---
-  Text:      Hi adventure gamers, About 2.5 years ago I wanted to write a story about twins, genetics and something hidden in how the story's told. I didn't intend to publish it. The draft was eventually abandoned, but the story stayed at the back of my mind. About 1.5 year ago I started to mess with game engines. The half-written story resurfaced and I decided to turn it into a point-and-click puzzle game. The game's still far far from finished, but I finally have enough for a trailer. Twin Study is a murder mystery recounted by the suspected murderer. One twin is dead, the other tells their story. I try to make each puzzle meaningful and reveal something about the characters. Steam Page: https://store.steampowered.com/app/4678620/Twin_Study/
-  True:      news_or_resource
-  Predicted: news_or_resource  (confidence: 0.19)
+--- #25 ---
+Text:      Hi adventure gamers, About 2.5 years ago I wanted to write a story about twins, genetics and something hidden in how the story's told. I didn't intend to publish it. The draft was eventually abandoned, but the story stayed at the back of my mind. About 1.5 year ago I started to mess with game engines. The half-written story resurfaced and I decided to turn it into a point-and-click puzzle game. The game's still far far from finished, but I finally have enough for a trailer. Twin Study is a murder mystery recounted by the suspected murderer. One twin is dead, the other tells their story. I try to make each puzzle meaningful and reveal something about the characters. Steam Page: https://store.steampowered.com/app/4678620/Twin_Study/
+True:      news_or_resource
+Predicted: news_or_resource  (confidence: 0.19)
